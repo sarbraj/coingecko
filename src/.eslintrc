@@ -1,0 +1,6 @@
+{
+  "plugins": ["react-hooks-order"],
+  "rules": {
+    "react-hooks-order/sort": "off"
+  }
+}
